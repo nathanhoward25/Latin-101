@@ -1,24 +1,24 @@
-1.) Third-person singular forms of amo
-perfect active - amāvit
-perfect passive - amatus est
-imperfect active - amābat
-imperfect passive - amabatur
+Third-person singular forms of amo
+1. perfect active - amāvit
+2. perfect passive - amatus est
+3. imperfect active - amābat
+4. imperfect passive - amabatur
 
- 2.) Third-person plural forms of audio
-perfect active - audiverunt
-perfect passive - auditi sunt
-imperfect active - audībant
-imperfect passive - audiebantur
+Third-person plural forms of audio
+1. perfect active - audiverunt
+2. perfect passive - auditi sunt
+3. imperfect active - audībant
+4. imperfect passive - audiebantur
 
-3.) Third-person singular forms of capio
-perfect active - cēpit
-perfect passive - captus est
-imperfect active - capĕbat
-imperfect passive - capebatur
+Third-person singular forms of capio
+1. perfect active - cēpit
+2. perfect passive - captus est
+3. imperfect active - capĕbat
+4. imperfect passive - capebatur
 
-4.) Identify following verb forms (person, number, tense, mood and voice, and first principal part):
-uenērunt - Third person plural perfect active indicative of ueniō
-interfectus est - Third-person singular perfect passive participle of interdiciō
-faciebat - Third-person singular imperfect active indicative of faciō
-fugit - Third-person singular perfect active indicative of fugiō 
-habebantur - Third-person plural imperfect passive of habeō
+Identify following verb forms (person, number, tense, mood and voice, and first principal part):
+1. uenērunt - Third person plural perfect active indicative of ueniō
+2. interfectus est - Third-person singular perfect passive participle of interdiciō
+3. faciebat - Third-person singular imperfect active indicative of faciō
+4. fugit - Third-person singular perfect active indicative of fugiō 
+5. habebantur - Third-person plural imperfect passive of habeō
