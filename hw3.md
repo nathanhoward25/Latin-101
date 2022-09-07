@@ -13,8 +13,8 @@ Third-person plural forms of audio
 Third-person singular forms of capio
 1. perfect active - cēpit
 2. perfect passive - captus est
-3. imperfect active - capĕbat
-4. imperfect passive - capebatur
+3. imperfect active - capiebat
+4. imperfect passive - capiebatur
 
 Identify following verb forms (person, number, tense, mood and voice, and first principal part):
 1. uenērunt - Third person plural perfect active indicative of ueniō
