@@ -4,6 +4,9 @@
 4. Like Latin, you can easily describe one noun with another noun in English (e.g., “the book’s title”, “the format of the assignment”). What case do you use in Latin to describe one noun with another noun? - The genitive case is used to describe one noun with another noun.
 5. What case does Latin use to name the subject of a verb? - Latin uses the nominative case to name the subject of a verb.
 
+
+
+
 1. amor (masculine nominative singular) Deianirae (feminine genitive singular)
 2. deus (masculine nominative singular) amoris (masculine genitive singular)
 3. amor (masculine nominative singular) deorum (masculine genitive plural)
