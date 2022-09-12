@@ -1,3 +1,5 @@
+**+1 Needs 1 minor revision.**
+
 Third-person singular forms of amo
 1. perfect active - amāvit
 2. perfect passive - amatus est
@@ -7,7 +9,7 @@ Third-person singular forms of amo
 Third-person plural forms of audio
 1. perfect active - audiverunt
 2. perfect passive - auditi sunt
-3. imperfect active - audībant
+3. imperfect active - audībant❌
 4. imperfect passive - audiebantur
 
 Third-person singular forms of capio
