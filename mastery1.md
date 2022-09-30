@@ -39,3 +39,16 @@ Plural
 4. Accusative - illās naues
 5. Ablative - illīs nauibus
 
+Verb Forms
+
+Third person singular of capio in the indicative mood. Assume a feminine subject.
+1. Imperfect active - capebat
+2. Imperfect passive - capebatur
+3. Perfect active - cepit
+4. Perfect passive - capta
+
+Third person plural of uideo in the indicative mood. Assume a neuter subject.
+1. Imperfect active - uidebant
+2. Imperfect passive - uidebantur
+3. Perfect active - uiderunt
+4. Perfect passive - uisa
