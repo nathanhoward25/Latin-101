@@ -14,6 +14,7 @@ Singular
 3. Dative - deo priori
 4. Accusative - deum priorem
 5. Ablative - deo priore
+
 Plural
 1. Nominative - dei priores
 2. Genitive - deorum priorum
