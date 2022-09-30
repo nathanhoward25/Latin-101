@@ -8,6 +8,7 @@ Identifying Verbs
 7. misit - third-person singular perfect active indicative of mittō
 
 Noun Adjective Agreement
+
 Singular
 1. Nominative - deus prior
 2. Genitive - dei prioris
@@ -21,3 +22,20 @@ Plural
 3. Dative - deis prioribus
 4. Accusative - deos priores
 5. Ablative - deis prioribus
+
+Pronouns
+
+Singular
+1. Nominative - illa nauis
+2. Genitive - illīus nauis
+3. Dative - illī naui 
+4. Accusative - illam nauem
+5. Ablative - illā naue
+
+Plural
+1. Nominative - illae naues
+2. Genitive - illārum nauem
+3. Dative - illīs nauibus
+4. Accusative - illās naues
+5. Ablative - illīs nauibus
+
