@@ -10,8 +10,8 @@
 
 6. Explain the construction cum eo? - Cum eo translates to "with him", where cum is the preposition and eo is in the ablative case.
 
-7. Fully identify the form of fulmen. What function is it playing in the sentence? What type of sentence structure do we find in this sentence?
+7. Fully identify the form of fulmen. What function is it playing in the sentence? What type of sentence structure do we find in this sentence? - Fulmen is in the third declension, it is a neuter noun, and its nominative and genitive forms are fulmen, fulmenis. In this sentence, fulmen is in the accusitive case and acts as a direct object. Specifically, the lightning is what is being sent by Jupiter. This sentence is a transitive sentence as it requires a direct object, along with the subject and verb. 
 
-8. Fully identify the form of apposita est.
+8. Fully identify the form of apposita est. - Apposita est is the third-person singular perfect passive participle of 
 
 9. What is the antecedent of eam?
