@@ -1,1 +1,5 @@
-Ignis deorum ab Prometheo captus est. Ille ignem hominibus dedit. Is ab deis propter factum missus est. Aquila cor Promethei impetebat. Prometheus non fugebat. Hercules aquilam interfecit. Is cum sagittis interfecit.
+1. Ignis deorum ab Prometheo captus est. 
+2. Ille ignem hominibus dedit. 
+3. Is ab deis propter factum missus est. 
+4. Aquila cor Promethei impetebat. Prometheus non fugebat. 
+5. Hercules aquilam interfecit. Is cum sagittis interfecit.
