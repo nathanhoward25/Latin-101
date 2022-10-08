@@ -1,4 +1,6 @@
-Identifying Verbs
+**+1 Needs revisions.**
+
+Identifying Verbs✅
 1. occidit - third-person singular perfect active indicative of occido
 2. interficiebat - third-person singular imperfect active indicative of interficiō
 3. necauit - third-person singular perfect active indicative of neco
@@ -18,12 +20,12 @@ Singular
 
 Plural
 1. Nominative - dei priores
-2. Genitive - deorum priorum
+2. Genitive - deorum priorum❌
 3. Dative - deis prioribus
 4. Accusative - deos priores
 5. Ablative - deis prioribus
 
-Pronouns
+Pronouns ✅
 
 Singular
 1. Nominative - illa nauis
@@ -42,13 +44,13 @@ Plural
 Verb Forms
 
 Third person singular of capio in the indicative mood. Assume a feminine subject.
-1. Imperfect active - capebat
-2. Imperfect passive - capebatur
+1. Imperfect active - capebat❌
+2. Imperfect passive - capebatur❌
 3. Perfect active - cepit
-4. Perfect passive - capta
+4. Perfect passive - capta❌
 
 Third person plural of uideo in the indicative mood. Assume a neuter subject.
 1. Imperfect active - uidebant
 2. Imperfect passive - uidebantur
 3. Perfect active - uiderunt
-4. Perfect passive - uisa
+4. Perfect passive - uisa❌
