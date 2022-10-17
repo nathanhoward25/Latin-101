@@ -11,4 +11,4 @@
 5.) Both capiō and faciō belong to the third conjugation as evidenced by the second principle part (capĕre and facĕre). In both verbs, the ĕre ending is dropped, and iō is added for the first principle part, ī for the third principle part, and us for the fourth principle part.  ❓*Do the stems stay the same in the third part?*
 
 **CORRECTION**
-The stems do not stay the same in the third part. Cap changes to cep (as evidenced by cepit) and fac changes to fec (as evidenced by feci).
+The stems do not stay the same in the third part. Cap changes to cep (as seen with cepi) and fac changes to fec (as seen with feci).
