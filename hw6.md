@@ -5,3 +5,7 @@
 3. Leto repeatedly warned her, but Niobe did not listen to (“hear”) Leto. - Latona Niobam monebat, Nioba Latonam in audiuit.❌
 4. Apollo, the son of the latter woman, killed the sons of the former woman. - Apollo, Latonam filius, interfecit filii Niobam.❌
 5. His sister Diana killed her daughters. - Euis soror Diana interfecit filiās Niobae.✅
+
+**CORRECTIONS**
+3. Latona Niobam monebat, Nioba Latonam in audiebat.
+4. Apollo, Latonae filius, interfecit filiōs Niobae.
