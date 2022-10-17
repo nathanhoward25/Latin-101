@@ -9,7 +9,7 @@ Third-person singular forms of amo
 Third-person plural forms of audio
 1. perfect active - audiverunt
 2. perfect passive - auditi sunt
-3. imperfect active - audībant❌
+3. imperfect active - audībant❌ **audiebant**
 4. imperfect passive - audiebantur
 
 Third-person singular forms of capio
