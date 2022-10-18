@@ -1,4 +1,4 @@
-**+1. Needs revisions.**
+**+2 Satisfactory.**
 
 1.) A regular Latin verb has four principle parts. Specifically, the first principle part is the first person singular in the present active indicative, the second principle part is an infinitive, the third principle part is the first person singular in the perfect active indicative, and the fourth principle part is a participle.
 
