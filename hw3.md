@@ -1,4 +1,4 @@
-**+1 Needs 1 minor revision.**
+**+2 Satisfactory.**
 
 Third-person singular forms of amo
 1. perfect active - amāvit
