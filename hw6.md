@@ -1,4 +1,4 @@
-**+1 Good! Needs revisions**
+**+2 Satisfactory**
 
 1. Niobe was the wife of Amphion. - Nioba Amphionī uxor erat.✅
 2. Amphion and Niobe had many children. - Amphion et Nioba habēbant multos liberos.✅
