@@ -9,4 +9,4 @@
 **CORRECTIONS**
 
 3. Latona Niobam monebat, Nioba Latonam non audiebat.
-4. Apollo, Latonae filius, interfecit filiōs Niobae.
+4. Apollo, illius filius, interfecit filiōs Niobae.
