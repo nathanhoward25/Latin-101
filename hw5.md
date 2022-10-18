@@ -1,4 +1,4 @@
-**+1 Excellent! One tiny typo to correct.  Nice work.**
+**+2 Satisfactory.**
 
 1. Meleager was the son of Oineus, king of Calydon. - Meleager Oinei filius erat, regis Caludonis.✅
 2. His mother was Althaea. - Eius mater Althea erat.✅
