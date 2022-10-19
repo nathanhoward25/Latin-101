@@ -22,6 +22,6 @@ Grammar and Analysis
 
 Translation
 
-Hercules killed Antaeus, the son of the Earth, in Libya. Antaeus killed all of the visitors. Hercules killed them❌ **Antaeus** by wrestling. He killed Cygnus, the son of Mars, with his arms. Mars came with arms to compete with Hercules for the sake of his son, but Jupiter sent a lightning bolt between them. The whale❌ of Hesione was located next to Troy, which Hercules killed. **Hesione was exposed to the whale at Troy, which Hercules killed.** Hercules killed Laomedon, the father of Hesione, with arrows, because he did not return her.
+Hercules killed Antaeus, the son of the Earth, in Libya. Antaeus killed all of the visitors. Hercules killed them❌ **Antaeus** by wrestling. Hercules killed Cygnus, the son of Mars, with his arms. Mars came with arms to compete with Hercules for the sake of his son, but Jupiter sent a lightning bolt between them. The whale❌ of Hesione was located next to Troy, which Hercules killed. **Hesione was exposed to the whale at Troy, which Hercules killed.** Hercules killed Laomedon, the father of Hesione, with arrows, because he did not return her.
 
 **I've gotten confused about who is who in your translation!  Maybe we need to clarify with names in English?**
