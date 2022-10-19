@@ -1,4 +1,4 @@
-**+1 Needs revisions.**
+**+2 Satisfactory.**
 
 Identifying Verbs✅
 1. occidit - third-person singular perfect active indicative of occido
