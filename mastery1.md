@@ -16,11 +16,11 @@ Singular
 2. Genitive - dei prioris
 3. Dative - deo priori
 4. Accusative - deum priorem
-5. Ablative - deo priore
+5. Ablative - deo priori
 
 Plural
 1. Nominative - dei priores
-2. Genitive - deorum priorum❌ **prioris**
+2. Genitive - deorum priorum❌ **priorium**
 3. Dative - deis prioribus
 4. Accusative - deos priores
 5. Ablative - deis prioribus
@@ -44,13 +44,13 @@ Plural
 Verb Forms
 
 Third person singular of capio in the indicative mood. Assume a feminine subject.
-1. Imperfect active - capebat❌ **capiebat**
-2. Imperfect passive - capebatur❌ **capiebatur**
+1. Imperfect active - capebat❌ **capiebat**✅
+2. Imperfect passive - capebatur❌ **capiebatur** ✅
 3. Perfect active - cepit
-4. Perfect passive - capta❌ **capta est**
+4. Perfect passive - capta❌ **capta est** ✅
 
 Third person plural of uideo in the indicative mood. Assume a neuter subject.
 1. Imperfect active - uidebant
 2. Imperfect passive - uidebantur
 3. Perfect active - uiderunt
-4. Perfect passive - uisa❌ **uisa sunt**
+4. Perfect passive - uisa❌ **uisa sunt**  ✅
