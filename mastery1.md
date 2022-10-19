@@ -20,7 +20,7 @@ Singular
 
 Plural
 1. Nominative - dei priores
-2. Genitive - deorum priorum❌ **prioris**
+2. Genitive - deorum priorum❌ **priorium**
 3. Dative - deis prioribus
 4. Accusative - deos priores
 5. Ablative - deis prioribus
