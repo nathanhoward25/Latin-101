@@ -8,7 +8,7 @@ Translation: Bacchus loved Ariadne for himself and he married her.
 
 3. Pronoun Identification: sibi (dative case)
 
-Translation: Pelopia took the sword and thrust it into her chest.
+Translation: Pelopia took the sword and thrust it into her own chest.
 
 4. Pronoun Identification: sibi (dative case)
 
