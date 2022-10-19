@@ -6,11 +6,11 @@ Grammar and Analysis
 
 2. To what declension does Antaeum belong to? - Antaeum belongs to the second declension. ✅
 
-3. What case is terrae and what other noun is it working with? - Terrae is the genitive case and it is working with the noun filium. ✅
+3. What case is terrae and what other noun is it working with? - Terrae is the genitive case and it is working with the noun filium. 
 
-4. What is the antecedent of hic? - The antecedent of hic is hospites. ❌ **The antecedent of hic is Antaeum.**
+4. What is the antecedent of hic? - The antecedent of hic is hospites. ❌ **The antecedent of hic is Antaeum.**  ✅
 
-5. What case is armis? - Armis is in the dative case. ❌ **Armis is in the ablative case.**
+5. What case is armis? - Armis is in the dative case. ❌ **Armis is in the ablative case.** ✅
 
 6. Explain the construction cum eo? - Cum eo translates to "with him", where cum is the preposition and eo is in the ablative case.  ✅
 
@@ -18,7 +18,7 @@ Grammar and Analysis
 
 8. Fully identify the form of apposita est. - Apposita est is the third-person singular perfect passive participle of appōnō. ✅
 
-9. What is the antecedent of eam? - The antecedent of eam is Laomedonta. ❌ **The antecedent of eam is Hercules.**
+9. What is the antecedent of eam? - The antecedent of eam is Laomedonta. ❌ **The antecedent of eam is Hercules.** Hesione ✅
 
 Translation
 
