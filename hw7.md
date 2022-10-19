@@ -4,7 +4,7 @@ Translation: Daedalus made wings for himself and for his son Icarus.
 
 2. Pronoun Identification: sibi (dative case)
 
-Translation: Bacchus loved Ariadne and himself so he married her.
+Translation: Bacchus loved Ariadne for himself and he married her.
 
 3. Pronoun Identification: sibi (dative case)
 
