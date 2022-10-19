@@ -47,7 +47,7 @@ Third person singular of capio in the indicative mood. Assume a feminine subject
 1. Imperfect active - capebat❌ **capiebat**
 2. Imperfect passive - capebatur❌ **capiebatur**
 3. Perfect active - cepit
-4. Perfect passive - capta❌ **capta sunt**
+4. Perfect passive - capta❌ **capta est**
 
 Third person plural of uideo in the indicative mood. Assume a neuter subject.
 1. Imperfect active - uidebant
