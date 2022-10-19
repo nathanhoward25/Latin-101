@@ -18,6 +18,6 @@ Translation: Juno claimed the form of Venus Minura for himself.
 
 Translation: Ulysses was tossed about by waves; Leucothea gave him a belt to bind his chest.
 
-6. se (accusative)
+6. Pronoun Identification: se (accusative)
 
 Translation: Achelous changed himself into different forms at the river. He fought Hercules on account of the marriage with Deianira, and he turned himself into a bull.
