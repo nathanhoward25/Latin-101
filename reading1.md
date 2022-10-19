@@ -8,9 +8,9 @@ Grammar and Analysis
 
 3. What case is terrae and what other noun is it working with? - Terrae is the genitive case and it is working with the noun filium. ✅
 
-4. What is the antecedent of hic? - The antecedent of hic is hospites. ❌
+4. What is the antecedent of hic? - The antecedent of hic is hospites. ❌ **The antecedent of hic is Antaeum.**
 
-5. What case is armis? - Armis is in the dative case. ❌
+5. What case is armis? - Armis is in the dative case. ❌ **Armis is in the ablative case.**
 
 6. Explain the construction cum eo? - Cum eo translates to "with him", where cum is the preposition and eo is in the ablative case.  ✅
 
@@ -18,10 +18,10 @@ Grammar and Analysis
 
 8. Fully identify the form of apposita est. - Apposita est is the third-person singular perfect passive participle of appōnō. ✅
 
-9. What is the antecedent of eam? - The antecedent of eam is Laomedonta. ❌
+9. What is the antecedent of eam? - The antecedent of eam is Laomedonta. ❌ **The antecedent of eam is Hercules.**
 
 Translation
 
-Hercules killed Antaeus, the son of the Earth, in Libya. He killed all of the visitors. He killed them❌ by wrestling. He killed Cygnus, the son of Mars, with his arms. Mars came with arms to compete with Hercules for the sake of his son, but Jupiter sent a lightning bolt between them. The whale❌ of Hesione was located next to Troy, which Hercules killed. Hercules killed Laomedon, the father of Hesione, with arrows, because he did not return her.
+Hercules killed Antaeus, the son of the Earth, in Libya. He killed all of the visitors. He killed them❌ **Antaeus** by wrestling. He killed Cygnus, the son of Mars, with his arms. Mars came with arms to compete with Hercules for the sake of his son, but Jupiter sent a lightning bolt between them. The whale❌ of Hesione was located next to Troy, which Hercules killed. **Hesione was exposed to the whale at Troy, which Hercules killed.** Hercules killed Laomedon, the father of Hesione, with arrows, because he did not return her.
 
 **I've gotten confused about who is who in your translation!  Maybe we need to clarify with names in English?**
