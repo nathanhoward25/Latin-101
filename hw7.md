@@ -20,4 +20,4 @@ Translation: Ulysses was tossed about by waves; Leucothea gave him her garment t
 
 6. Pronoun Identification: se (accusative)
 
-Translation: Achelous changed himself into different forms at the river. He fought Hercules on account of the marriage with Deianira, and he turned himself into a bull.
+Translation: Achelous changed himself into different forms at the river. He fought Hercules on account of Deianira's marriage, and he turned himself into a bull.
