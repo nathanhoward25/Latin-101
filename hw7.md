@@ -12,7 +12,7 @@ Translation: Pelopia took the sword and thrust it into her own chest.
 
 4. Pronoun Identification: sibi (dative case)
 
-Translation: Juno, Venus, and Minura calimed beauty for themrselves.
+Translation: Juno, Venus, and Minura calimed beauty for themselves.
 
 5. Pronoun Identification: sibi (dative case)
 
