@@ -16,7 +16,7 @@ Translation: Juno, Venus, and Minura calimed beauty for themselves.
 
 5. Pronoun Identification: sibi (dative case)
 
-Translation: Ulysses was tossed about by waves; Leucothea gave him a shawl to wrap around his chest.
+Translation: Ulysses was tossed about by waves; Leucothea gave him her garment to wrap around his chest.
 
 6. Pronoun Identification: se (accusative)
 
