@@ -3,20 +3,19 @@ Olim *Prometheus*, Iapetī fīlius prīmus, hominēs ex lutō **fingēbat**. Sim
 
 Grammatical Questions
 
-1.What is the grammatical function of Iapetī fīlius prīmus? - "Iapetī fīlius prīmus" is describing Prometheus as the first son of Iapetus.
+1. What is the grammatical function of Iapetī fīlius prīmus? - "Iapetī fīlius prīmus" is describing Prometheus as the first son of Iapetus.
 
-2.Parse fingēbat and tell me what conjugation it belongs to. - Fingebat is the third-person singular imperfect active indicative of fingō and belongs to the second conjugation.
+2. Parse fingēbat and tell me what conjugation it belongs to. - Fingebat is the third-person singular imperfect active indicative of fingō and belongs to the second conjugation.
 
-3.What type of adjective is huic, what case is it in, and what word does it agree with? - Huic is the dative feminine singular of hic, haec, hoc meaning "this." Huic agrees with the noun animam.
+3. What type of adjective is huic, what case is it in, and what word does it agree with? - Huic is the dative feminine singular of hic, haec, hoc meaning "this." Huic agrees with the noun animam.
 
-4.Identify the sentence structure of omnēs deī dōna eī misērunt (linking, transitive active, transitive passive or intransitive) and the grammatical function of each word in the sentence. - The sentence structure of "omnēs deī dōna eī misērunt" is transitive active. Misērunt is the verb, dōna is the direct object, and deī is the indirect object.
+4. Identify the sentence structure of omnēs deī dōna eī misērunt (linking, transitive active, transitive passive or intransitive) and the grammatical function of each word in the sentence. - The sentence structure of "omnēs deī dōna eī misērunt" is transitive active. Misērunt is the verb, dōna is the direct object, and deī is the indirect object.
 
-5.Parse data est and indicate what conjugation the verb belongs to. - Data est is the third-person singular perfect passive participle of do and belongs to the first conjugation.
+5. Parse data est and indicate what conjugation the verb belongs to. - Data est is the third-person singular perfect passive participle of do and belongs to the first conjugation.
 
-6.What type of grammatical construction is ab Iove? - ab Jiove is the agent of the passive verb.
+6. What type of grammatical construction is ab Iove? - ab Jiove is the agent of the passive verb.
 
 7. What tense is erat and what are the principle parts of the verb it comes from? - Erat is in the imperfect tense and the principle parts of the verb it comes from is sum, esse, fuī, futūrus.
-
 
 Translation
 
