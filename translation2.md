@@ -17,6 +17,7 @@ Grammatical Questions
 
 7. What tense is erat and what are the principle parts of the verb it comes from? - Erat is in the imperfect tense and the principle parts of the verb it comes from is sum, esse, fuī, futūrus.
 
+
 Translation
 
 Once upon a time Prometheus, the first son of Iapetus, fashioned men from clay. At the same time, Vulcan made a woman out of clay. Minerva gave the soul of this woman, and sent her all the gifts of the gods. Because of this, the name "Pandora" was given to her. Pandora was given by Jupiter in marriage to Epimetheus. Their daughter was Pyrrha, the first mortal.
