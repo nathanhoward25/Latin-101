@@ -1,4 +1,6 @@
-Noun-Adjective Agreement
+**+1 Needs revisions**
+
+Noun-Adjective Agreement ✅
 
 Singular
 1. Nominative - hic imprudens filius
@@ -17,11 +19,11 @@ Plural
 Case Usage
 1. Into the fields - in agros
 2. With her sons - cum filiis
-3. At that time - horis
-4. Was not able to go - possum eo
-5. Wanted to bring - egerunt
+3. At that time - horis ❌
+4. Was not able to go - possum eo ❌
+5. Wanted to bring - egerunt ❌
 6. Themselves - se
-7. For many hours - multam horas
-8. By her sons - per filiis
+7. For many hours - multam horas ❌
+8. By her sons - per filiis ❌
 9. To her and to her sons - sibi et filiis
-10. That night - nactem
+10. That night - nactem ❌
