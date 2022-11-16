@@ -1,7 +1,7 @@
-1. fuissent (pluperfect subjunctive)
-2. cepissent (pluperfect subjunctive)
-3. Capiebant
-4. Captus esset
-5. Caperentur
-6. Dicebat
-7. Uiderunt
+1. fuissent
+2. cepissent 
+3. ceperunt 
+4. captus esset
+5. caperentur
+6. dicebat
+7. uiderunt
