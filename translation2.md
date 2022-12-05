@@ -24,4 +24,6 @@ Translation
 
 Once upon a time Prometheus, the first son of Iapetus, fashioned men from clay. At the same time, Vulcan made a woman out of clay. Minerva gave the soul of this woman, and sent her all the gifts of the gods.❌ Because of this, the name "Pandora" was given to her. Pandora was given by Jupiter in marriage to Epimetheus. Their daughter was Pyrrha, the first mortal.
 
+**CORRECTION TO SENTENCE 3: Minerva gave a soul to this woman, and sent her all the gifts of the gods.**
+
 
