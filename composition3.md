@@ -1,1 +1,1 @@
-
+Cum Achiui decem annōs in Troia non cepeterunt, ei equum ligneum fecit. Hyginus dixit equum ab Epeio factum esse. Duces Achiui se abscondiderunt in equo. Cassandra dixit Duces Achiuorum se abscondidisse in equo. Troiani credebant Achiuos isse. Cum Troiani equum illa nocte ab templum ducti esset, Achiui ex equo, ei Troia capissent.
