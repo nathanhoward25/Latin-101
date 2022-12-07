@@ -10,7 +10,7 @@ Grammatical Questions
 
 5. Collecti sunt is in the third-person plural perfict passive participle.
 
-6. Cum id Troianī vidērunt is a dependent clause. Cum means when and introduces the dependent clause.
+6. Cum id Troianī vidērunt is a subordinate clause using the indicative. It should be treated as time rather than circumstance.
 
 7. Ei is in the dative case and acts as an indirect object.
 
