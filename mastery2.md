@@ -27,4 +27,4 @@ Case Usage
 7. For many hours - multam horas ❌
 8. By her sons - per filiis ❌
 9. To her and to her sons - sibi et filiis
-10. That night - nactem ❌
+10. That night - nactem ❌ **illa nocte**
