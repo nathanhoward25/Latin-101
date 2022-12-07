@@ -20,7 +20,7 @@ Plural
 Case Usage
 1. Into the fields - in agros
 2. With her sons - cum filiis
-3. At that time - horis ❌
+3. At that time - horis ❌ **hora**
 4. Was not able to go - possum eo ❌
 5. Wanted to bring - egerunt ❌
 6. Themselves - se
