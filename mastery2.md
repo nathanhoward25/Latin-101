@@ -22,7 +22,7 @@ Case Usage
 2. With her sons - cum filiis
 3. At that time - horis ❌ **eo tempore**
 4. Was not able to go - possum eo ❌ **poterat ire**
-5. Wanted to bring - egerunt ❌ **adducterunt volebant**
+5. Wanted to bring - egerunt ❌ **adducere volebant**
 6. Themselves - se
 7. For many hours - multam horas ❌ **multas horas**
 8. By her sons - per filiis ❌ **a filiis**
